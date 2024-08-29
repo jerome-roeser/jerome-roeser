@@ -26,25 +26,25 @@ Checkout the [cool materials](https://scholar.google.com/citations?user=4-LNNSoA
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/python-logo-inkscape.svg" alt="python" height="30"/>
+        <img src="logos/python-logo-inkscape.svg" alt="python" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/jupyter-ar21.svg" alt="jupyter" height="35"/>
+        <img src="logos/jupyter-ar21.svg" alt="jupyter" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/Sql_data_base_with_logo.svg" alt="SQL" height="30"/>
+        <img src="logos/Sql_data_base_with_logo.svg" alt="SQL" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/NumPy_logo_2020.svg" alt="Numpy" height="30"/>
+        <img src="logos/NumPy_logo_2020.svg" alt="Numpy" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/Pandas_logo.svg" alt="Numpy" height="30"/>
+        <img src="logos/Pandas_logo.svg" alt="Numpy" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/matplotlib_logo.svg" alt="matplotlib" height="30"/>
+        <img src="logos/matplotlib_logo.svg" alt="matplotlib" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/Plotly-logo.png" alt="Numpy" height="30"/>
+        <img src="logos/Plotly-logo.png" alt="Numpy" height="40"/>
     </a>
 </p>
 <p align="center">
