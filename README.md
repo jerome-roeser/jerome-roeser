@@ -19,6 +19,7 @@ Checkout the [cool materials](https://scholar.google.com/citations?user=4-LNNSoA
 - 📫 **How to reach me**: If you'd like to chat about my chemistry or github projects, reach me on my [LinkedIn](https://www.linkedin.com/in/jeromeroeser/).
 
 
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="" target="_blank" rel="noreferrer">
@@ -81,6 +82,9 @@ Checkout the [cool materials](https://scholar.google.com/citations?user=4-LNNSoA
     </a>
     <a href="" target="_blank" rel="noreferrer">
         <img src="logos/Streamlit_logo_primary_colormark_darktext.svg" alt="streamlit" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="logos/dbt-bit_tm.svg" alt="streamlit" height="40"/>
     </a>
 </p>
 
