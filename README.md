@@ -5,10 +5,6 @@
 
 Checkout the [cool materials](https://scholar.google.com/citations?user=4-LNNSoAAAAJ&hl=en) I reported in my career as a chemist!
 
-
-
-<br/><br/>
-
 Wanting to learn to **accelerate research and material discovery with data**, I recently completed a Data Science & AI bootcamp.
 
 <br/>
@@ -49,19 +45,19 @@ Wanting to learn to **accelerate research and material discovery with data**, I 
 </p><br/>
 <p align="center">
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/statsmodels-logo-v2.svg" alt="statsmodel" width="40" height="40"/>
+        <img src="logos/statsmodels-logo-v2.svg" alt="statsmodel" width="50" height="50"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+        <img src="logos/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/tensorflow.svg" alt="tensorflow" width="40" height="40"/>
+        <img src="logos/tensorflow.svg" alt="tensorflow" width="50" height="50"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/Keras_logo.svg" alt="keras" width="40" height="40"/>
+        <img src="logos/Keras_logo.svg" alt="keras" width="50" height="50"/>
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="logos/HuggingFace.svg" alt="hugging-face" width="40" height="40"/>
+        <img src="logos/HuggingFace.svg" alt="hugging-face" width="50" height="50"/>
     </a>
 </p><br/>
 <p align="center">
