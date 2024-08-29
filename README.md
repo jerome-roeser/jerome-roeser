@@ -1,15 +1,17 @@
 <h1 align="center">Hello - Bonjour - Hallo 👋</h1>
 <h3 align="center">I'm Jérôme, a Chemist and aspiring Data Scientist based in Berlin</h3>
 
+<br/>
+
 Checkout the [cool materials](https://scholar.google.com/citations?user=4-LNNSoAAAAJ&hl=en) I reported in my career as a chemist!
 
 
 
+<br/><br/>
 
+Wanting to learn to **accelerate research and material discovery with data**, I recently completed a Data Science & AI bootcamp.
 
-**Wanting to learn to accelerate research and material discovery with data, I recently completed a Data Science & AI bootcamp.**
-
-
+<br/>
 
 
 - 🔭 **I’m currently working on**: [Advanced Power Forecast](https://github.com/jerome-roeser/advanced-power-forecast)
@@ -18,7 +20,7 @@ Checkout the [cool materials](https://scholar.google.com/citations?user=4-LNNSoA
 
 - 📫 **How to reach me**: If you'd like to chat about my chemistry or github projects, reach me on my [LinkedIn](https://www.linkedin.com/in/jeromeroeser/).
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -44,7 +46,7 @@ Checkout the [cool materials](https://scholar.google.com/citations?user=4-LNNSoA
     <a href="" target="_blank" rel="noreferrer">
         <img src="logos/Plotly-logo.png" alt="Numpy" height="40"/>
     </a>
-</p>
+</p><br/>
 <p align="center">
     <a href="" target="_blank" rel="noreferrer">
         <img src="logos/statsmodels-logo-v2.svg" alt="statsmodel" width="40" height="40"/>
@@ -61,7 +63,7 @@ Checkout the [cool materials](https://scholar.google.com/citations?user=4-LNNSoA
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
         <img src="logos/HuggingFace.svg" alt="hugging-face" width="40" height="40"/>
     </a>
-</p>
+</p><br/>
 <p align="center">
     <a href="" target="_blank" rel="noreferrer">
         <img src="logos/google-cloud-1.svg" alt="GCP" width="40" height="40"/>
