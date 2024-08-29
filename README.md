@@ -1,4 +1,61 @@
 <h1 align="center">Hallo / Bonjour / Hello 👋</h1>
+<h3 align="center">I'm Jérôme, a Chemist and aspiring Data Scientist based in Berlin</h3>
+
+Checkout the [cool materials](https://scholar.google.com/citations?user=4-LNNSoAAAAJ&hl=en) I reported in my career as a chemist!  
+
+
+
+
+
+**Wanting to learn to accelerate research and material discovery with data, I recently completed a Data Science & AI bootcamp.**
+
+
+
+
+- 🔭 **I’m currently working on**: [Advanced Power Forecast](https://github.com/jerome-roeser/advanced-power-forecast)
+
+- 💬 **Ask me about**: Chemistry, Crystallography, Machine Learning, Deep Learning, Golf
+
+- 📫 **How to reach me**: If you'd like to chat about my chemistry or github projects, reach me on my [LinkedIn](https://www.linkedin.com/in/jeromeroeser/).
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/jeromeroeser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeromeroeser" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    </a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    </a>
+</p>
+
 
 <!--
 **jerome-roeser/jerome-roeser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,18 +70,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+###################################### Template ###############################
+<h1 align="center">Hallo / Bonjour / Hello 👋, I'm Jérôme</h1>
+<h3 align="center">A climate/bio/tech product manager based in Berlin - learning to develop useful stuff from scratch 🌱</h3>
 
-- 🔭 **I’m currently working on**: [Adavanced Power Forecast](https://github.com/jerome-roeser/advanced-power-forecast)
+With an academic background in plant science/agriculture, I wanted more of a direct impact and am enthralled by all the innovations in climate tech - so I have been working in agtech startups, climate-venture capital, and as a product lead at an AI-for-agriculture startup.
 
-- 💬 **Ask me about**: Chemistry, Golf, 
+Wanting to learn how to create my own products from the ground up, both for my own interest and to become a better product manager, I recently completed a Data Science & AI bootcamp.
 
-- 📫 **How to reach me**: Reach on my [LinkedIn](https://www.linkedin.com/in/jeromeroeser/).
+**Now, I'm very excited to learn more and solve some challenges in the climate space** 🌍
+
+- 🔭 **I’m currently working on**: [ForestVision](https://github.com/vikfalk/deforestation_frontend)
+
+- 🌱 **I’m currently learning**: More languages to allow me to create better products **-** focusing on ReactJS & Django currently. Also learning more on topics such as remote sensing, forestry, design thinking, and AI.
+
+- 💬 **Ask me about**: Agriculture, climate, AI, remote sensing, biotech, foodtech, startups, and where the best hammock spots in Berlin are 🌳
+
+- 📫 **How to reach me**: Always happy for a chat in any shape or form - reach me at [viktorfalkengren@gmail.com](mailto:viktorfalkengren@gmail.com) or on my [LinkedIn](https://www.linkedin.com/in/viktorfalkengren/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jeromeroeser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeromeroeser" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/viktorfalkengren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktorfalkengren" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -75,3 +142,6 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
 </p>
+
+
+-->
