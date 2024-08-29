@@ -1,4 +1,4 @@
-<h1 align="center">Hallo / Bonjour / Hello 👋</h1>
+<h1 align="center">Hello - Bonjour - Hallo 👋</h1>
 <h3 align="center">I'm Jérôme, a Chemist and aspiring Data Scientist based in Berlin</h3>
 
 Checkout the [cool materials](https://scholar.google.com/citations?user=4-LNNSoAAAAJ&hl=en) I reported in my career as a chemist!
