@@ -18,10 +18,6 @@ Checkout the [cool materials](https://scholar.google.com/citations?user=4-LNNSoA
 
 - 📫 **How to reach me**: If you'd like to chat about my chemistry or github projects, reach me on my [LinkedIn](https://www.linkedin.com/in/jeromeroeser/).
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/jeromeroeser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeromeroeser" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
