@@ -22,68 +22,71 @@ Wanting to learn to **accelerate research and material discovery with data**, I 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/python-logo-inkscape.svg" alt="python" height="40"/>
+        <img src="logos/python.svg" alt="python" height="40"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/jupyter-ar21.svg" alt="jupyter" height="40"/>
+        <img src="logos/Jupyter_logo.svg" alt="jupyter" height="40"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/Sql_data_base_with_logo.svg" alt="SQL" height="40"/>
+        <img src="logos/Sql_data_base_with_logo.svg" alt="SQL" height="40"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/NumPy_logo_2020.svg" alt="Numpy" height="40"/>
+        <img src="logos/numpy.svg" alt="Numpy" height="40"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/Pandas_logo.svg" alt="Numpy" height="40"/>
+        <img src="logos/Pandas_logo.svg" alt="Pandas" height="40"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/matplotlib_logo.svg" alt="matplotlib" height="40"/>
+        <img src="logos/matplotlib_logo.svg" alt="matplotlib" height="40"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/Plotly-logo.png" alt="Numpy" height="40"/>
+        <img src="logos/Plotly-logo.png" alt="Plotly" height="40"/>&nbsp;&nbsp;
     </a>
 </p><br/>
 <p align="center">
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/statsmodels-logo-v2.svg" alt="statsmodel" width="50" height="50"/>
+        <img src="logos/statsmodels-logo-v2.svg" alt="statsmodel" width="50" height="50"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/>
+        <img src="logos/Scikit_learn_logo_small.svg" alt="scikit-learn" width="70" height="70"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/tensorflow.svg" alt="tensorflow" width="50" height="50"/>
+        <img src="logos/tensorflow.svg" alt="tensorflow" width="50" height="50"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/Keras_logo.svg" alt="keras" width="50" height="50"/>
+        <img src="logos/Keras_logo.svg" alt="keras" width="50" height="50"/>&nbsp;&nbsp;
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="logos/HuggingFace.svg" alt="hugging-face" width="50" height="50"/>
+        <img src="logos/HuggingFace.svg" alt="hugging-face" width="50" height="50"/>&nbsp;&nbsp;
     </a>
 </p><br/>
 <p align="center">
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/google-cloud-1.svg" alt="GCP" width="40" height="40"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/google-bigquery-logo-1.svg" alt="BigQuery" width="40" height="40"/>
+        <img src="logos/git-scm-icon.svg" alt="Git" height="40"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/MLflow-Logo.svg" alt="MLFlow" height="30"/>
+        <img src="logos/google-cloud-1.svg" alt="GCP" width="40" height="40"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/docker.svg" alt="docker" width="40" height="40"/>
+        <img src="logos/google-bigquery-logo-1.svg" alt="BigQuery" width="40" height="40"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/fastapi-1.svg" alt="fast API" width="40" height="40"/>
+        <img src="logos/MLflow-Logo.svg" alt="MLFlow" height="30"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/prefect-1.svg" alt="prefect" width="40" height="40"/>
+        <img src="logos/docker.svg" alt="docker" width="40" height="40"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/Streamlit_logo_primary_colormark_darktext.svg" alt="streamlit" height="40"/>
+        <img src="logos/fastapi-1.svg" alt="fast API" width="40" height="40"/>&nbsp;&nbsp;
     </a>
     <a href="" target="_blank" rel="noreferrer">
-        <img src="logos/dbt-bit_tm.svg" alt="streamlit" height="40"/>
+        <img src="logos/prefect-1.svg" alt="prefect" width="40" height="40"/>&nbsp;&nbsp;
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="logos/Streamlit_logo_primary_colormark_darktext.svg" alt="streamlit" height="40"/>&nbsp;&nbsp;
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="logos/dbt-bit_tm.svg" alt="dbt" height="40"/>&nbsp;&nbsp;
     </a>
 </p>
 
