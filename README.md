@@ -10,7 +10,7 @@ Wanting to learn to **accelerate research and material discovery with data**, I 
 <br/>
 
 
-- 🔭 **I’m currently working on**: [Advanced Power Forecast](https://github.com/jerome-roeser/advanced-power-forecast)
+- 🔭 **I’m currently working on**: [Day-Ahead Power Forecast](https://github.com/jerome-roeser/day-ahead-power-forecast)
 
 - 💬 **Ask me about**: Chemistry, Crystallography, Machine Learning, Deep Learning, Golf
 
@@ -34,6 +34,7 @@ Wanting to learn to **accelerate research and material discovery with data**, I 
     <img src="logos/Scikit_learn_logo_small.svg" alt="scikit-learn" width="70" height="70"/>&nbsp;&nbsp;
     <img src="logos/tensorflow.svg" alt="tensorflow" width="50" height="50"/>&nbsp;&nbsp;
     <img src="logos/Keras_logo.svg" alt="keras" width="50" height="50"/>&nbsp;&nbsp;
+    <img src="logos/pytorch-ar21.svg" alt="pytorch"/>&nbsp;&nbsp;
     <img src="logos/HuggingFace.svg" alt="hugging-face" width="50" height="50"/>&nbsp;&nbsp;
 </p><br/>
 <p align="center">
